@@ -1,0 +1,13 @@
+.num-circle{
+    border: solid 1px #bdbdbd;
+    border-radius: 100%;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn-text{
+    text-transform: capitalize;
+}
